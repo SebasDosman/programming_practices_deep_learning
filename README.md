@@ -10,6 +10,38 @@ This repository contains a collection of practice exercises focused on Deep Lear
 6. [Projects and Case Studies](#projects-and-case-studies)
 7. [Resources and References](#resources-and-references)
 
+## Introduction to Deep Learning
+- Overview of Deep Learning concepts
+- Introduction to neural networks
+- Understanding the backpropagation algorithm
+
+## Neural Networks from Scratch
+- Implementing perceptrons and mono-layer neural networks
+- Training neural networks using gradient descent
+- Building and training a simple neural network without any frameworks
+
+## TensorFlow Basics
+- Introduction to TensorFlow
+- Building and training neural networks with TensorFlow
+- Using TensorFlow for data preprocessing and model evaluation
+
+## Keras for Deep Learning
+- Overview of Keras API
+- Building, training, and evaluating models using Keras
+- Implementing common neural network architectures (e.g., CNN, RNN, LSTM)
+
+## Advanced Topics
+- Transfer learning and fine-tuning
+- Hyperparameter tuning and model optimization
+- Working with complex datasets and architectures
+
+## Projects and Case Studies
+- Practical projects applying Deep Learning to real-world problems
+- Case studies demonstrating the application of Deep Learning in various domains
+
+## Resources and References
+- Recommended books, tutorials, and courses for further learning
+- Links to official documentation and community resources
 
 ## How to Use this Repository
 1. Clone the repository to your local machine:
