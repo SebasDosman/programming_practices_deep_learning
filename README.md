@@ -46,11 +46,11 @@ This repository contains a collection of practice exercises focused on Deep Lear
 ## How to Use this Repository
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/deep-learning-practice.git
+   git clone https://github.com/SebasDosman/programming_practices_deep_learning.git
    ```
 2. Navigate to the directory and open the desired Jupyter Notebook file:
    ```bash
-   cd deep-learning-practice
+   cd programming_practices_deep_learning
    jupyter notebook
    ```
 3. Follow the instructions provided in each notebook to run the code and complete the exercises.
