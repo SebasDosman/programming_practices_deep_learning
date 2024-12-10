@@ -1,0 +1,82 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter configuration
+.jupyter/
+
+# Python libraries
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Output and model files
+*.h5
+*.hdf5
+*.ckpt
+*.onnx
+*.joblib
+*.pkl
+*.pb
+*.tflite
+*.lite
+
+# Training logs and outputs
+logs/
+*.log
+*.csv
+*.tsv
+*.npy
+*.npz
+
+# Datasets or large data files
+datasets/
+data/
+*.zip
+*.tar.gz
+
+# Operating system files
+*.DS_Store
+Thumbs.db
+Icon?
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+~$*
+
+# IDEs and text editors
+.vscode/
+.idea/
+*.code-workspace
+
+# TensorBoard logs
+events.out.tfevents.*
+
+# Pytest cache
+.pytest_cache/
+*.pytest_cache
+
+# Machine learning pipelines
+mlruns/
+
+# Other miscellaneous
+*.checkpoint
+*.ipynb_out/
